@@ -1,78 +1,84 @@
-LICENÇA DE USO MODIFICÁVEL, ÉTICO E COOPERATIVO (LUME)
-Versão 1.0 — Copyright (c) 2026 [ nome ]
+LUME: MODIFIABLE, ETHICAL, AND COOPERATIVE USE LICENSE
+Version 1.0 — Copyright (c) 2026 [Your Full Name]
 
-Por favor, leia este contrato de licença atentamente antes de usar, modificar ou 
-distribuir este software. Ao utilizar este software, você concorda com todos os 
-termos descritos abaixo.
+Please read this license agreement carefully before using, modifying, or 
+distributing this software. By using this software, you agree to all the 
+terms described below.
 
-1. ATRIBUIÇÃO DE CRÉDITOS E DIREITOS AUTORAIS
-O autor original, [Seu Nome Completo], retém todos os direitos autorais do software. 
-O nome do criador original, bem como os avisos de direitos autorais contidos nos arquivos 
-fonte originais, DEVEM ser mantidos intactos e exibidos explicitamente em todas as cópias, 
-distribuições, sublicenças ou trabalhos derivados deste software, em qualquer instância 
-de execução ou distribuição pública.
+1. ATTRIBUTION OF CREDITS AND COPYRIGHT
+The original author, [Your Full Name], retains all copyright to the software. 
+The name of the original creator, as well as the copyright notices contained 
+in the original source files, MUST be kept intact and explicitly displayed in 
+all copies, distributions, sublicenses, or derivative works of this software, 
+in any instance of execution or public distribution.
 
-2. RECIPROCIDADE DE CÓDIGO (COPYLEFT FRACO)
-É concedida permissão para modificar o código-fonte deste software e integrá-lo a outros 
-projetos, observando as seguintes condições:
-a) Qualquer modificação, correção de bugs, otimização ou adição direta feita aos arquivos 
-   de código-fonte originais deste software DEVE ser disponibilizada publicamente sob os 
-   mesmos termos desta licença.
-b) Extensões, módulos independentes ou plugins que se comuniquem com este software através 
-   de interfaces de programação (APIs) ou vinculação dinâmica, sem modificar o core 
-   do código original, não são considerados trabalhos derivados e podem ser mantidos sob 
-   código fechado ou outras licenças, a critério de seus respectivos autores.
+2. CODE RECIPROCITY (WEAK COPYLEFT)
+Permission is granted to modify the source code of this software and integrate 
+it into other projects, subject to the following conditions:
+a) Any modification, bug fix, optimization, or direct addition made to the 
+   original source code files of this software MUST be made publicly available 
+   under the same terms of this license.
+b) Extensions, independent modules, or plugins that communicate with this 
+   software through programming interfaces (APIs) or dynamic linking, without 
+   modifying the core of the original code, are not considered derivative 
+   works and may be kept under closed source or other licenses, at the 
+   discretion of their respective authors.
 
-3. RECIPROCIDADE POR USO COMERCIAL E LUCRO
-Se você, sua empresa, startup ou entidade utiliza este software para auferir qualquer tipo 
-de lucro, receita, beneficio financeiro direto ou indireto, ou o integra em serviços comerciais 
-pagos, você fica OBRIGADO a escolher e cumprir uma das seguintes formas de reciprocidade para 
-manter o direito de uso do software:
+3. RECIPROCITY FOR COMMERCIAL USE AND PROFIT
+If you, your company, startup, or entity uses this software to generate any type 
+of profit, revenue, direct or indirect financial benefit, or integrates it into 
+paid commercial services, you are OBLIGATED to choose and fulfill one of the 
+following forms of reciprocity to maintain the right to use the software:
 
-- Opção A (Contribuição Técnica): Contribuir ativamente para o desenvolvimento do projeto 
-  principal, enviando Pull Requests ou Commits contendo melhorias reais (correções de bugs, 
-  otimizações ou novas funcionalidades) que sejam efetivamente ACEITAS E APROVADAS pelo 
-  mantenedor original, mantendo uma frequência mínima de pelo menos 1 (uma) contribuição 
-  aprovada a cada 6 (seis) meses.
-- Opção B (Patrocínio Financeiro): Caso não contribua com código técnico aceito pelo mantenedor, 
-  a entidade ou indivíduo fica obrigado a pagar uma taxa de patrocínio mensal fixa no valor de 
-  $50 USD (cinquenta dólares americanos, ou o equivalente convertido na moeda local) através 
-  dos canais oficiais de financiamento indicados no repositório do projeto (ex: GitHub Sponsors, 
-  Open Collective).
+- Option A (Technical Contribution): Actively contribute to the development of 
+  the main project by submitting Pull Requests or Commits containing real 
+  improvements (bug fixes, optimizations, or new features) that are effectively 
+  ACCEPTED AND APPROVED by the original maintainer, maintaining a minimum 
+  frequency of at least 1 (one) approved contribution every 6 (six) months.
+- Option B (Financial Sponsorship): If you do not contribute with code accepted 
+  by the maintainer, the entity or individual is required to pay a fixed monthly 
+  sponsorship fee of $50 USD (fifty United States dollars, or the equivalent 
+  converted into local currency) through the official funding channels indicated 
+  in the project repository (e.g., GitHub Sponsors, Open Collective).
 
-Estão ISENTOS desta obrigação apenas estudantes, pesquisadores, hobbistas e indivíduos que 
-utilizem o software para fins estritamente pessoais, educacionais ou em projetos sem fins lucrativos.
+Only students, researchers, hobbyists, and individuals using the software for 
+strictly personal, educational, or non-profit projects are EXEMPT from this 
+obligation.
 
-O não cumprimento de nenhuma das duas opções (A ou B) por qualquer entidade ou indivíduo que 
-lucre com o software revoga automaticamente o direito de uso, cópia, modificação ou 
-distribuição do mesmo.
+Failure to comply with either option (A or B) by any entity or individual profiting 
+from the software automatically revokes the right to use, copy, modify, or 
+distribute it.
 
-4. POLÍTICA DE USO JUSTO, PRIVACIDADE E ANTI-MALWARE
-Este software foi criado com foco na experiência do usuário e no respeito à privacidade. É 
-expressamente PROIBIDA a distribuição de trabalhos derivados ou modificados deste software 
-que incluam as seguintes práticas:
+4. FAIR USE, PRIVACY, AND ANTI-MALWARE POLICY
+This software was created with a focus on user experience and respect for privacy. 
+The distribution of derivative or modified works of this software that include 
+the following practices is expressively PROHIBITED:
 
-a) Telemetria Abusiva e Coleta de Dados: O software não pode coletar, rastrear ou transmitir 
-   dados pessoais, telemetria de uso ou informações do dispositivo além do estritamente 
-   necessário para o funcionamento técnico básico do sistema. É terminantemente proibida a venda, 
-   compartilhamento ou cessão de qualquer dado de usuário para empresas de publicidade ou terceiros.
-b) Anúncios Invasivos (Adware): Caso o desenvolvedor utilize anúncios para monetizar o software 
-   derivado, estes devem respeitar a experiência do usuário. 
-   - São PROIBIDOS: Anúncios em tela cheia (pop-ups/intersticiais agressivos), anúncios que 
-     interrompam o fluxo de uso forçadamente, ou a exibição excessiva de publicidade.
-   - São PERMITIDOS apenas: Banners discretos posicionados na interface (desktop ou mobile), 
-     anúncios baseados em recompensa (onde o usuário escolhe assistir para obter um benefício) 
-     ou anúncios exibidos com intervalos de tempo razoáveis que não degradem a usabilidade.
+a) Abusive Telemetry and Data Collection: The software cannot collect, track, or 
+   transmit personal data, usage telemetry, or device information beyond what is 
+   strictly necessary for the basic technical operation of the system. The sale, 
+   sharing, or assignment of any user data to advertising companies or third 
+   parties is strictly prohibited.
+b) Invasive Advertisements (Adware): If the developer uses ads to monetize the 
+   derivative software, these must respect the user experience. 
+   - PROHIBITED: Full-screen ads (aggressive pop-ups/intersticals), ads that 
+     forcibly interrupt the user flow, or excessive display of advertising.
+   - PERMITTED ONLY: Discreet banners positioned within the interface (desktop 
+     or mobile), reward-based ads (where the user chooses to watch to obtain a 
+     benefit), or ads displayed at reasonable time intervals that do not degrade 
+     usability.
 
-O descumprimento de qualquer subcláusula deste item classifica o software derivado como 
-"Malware/Adware de Código" e revoga imediatamente o direito de uso e distribuição desta licença.
+Non-compliance with any sub-clause of this section classifies the derivative 
+software as "Code Malware/Adware" and immediately revokes the right of use and 
+distribution under this license.
 
-5. ISENÇÃO DE RESPONSABILIDADE (GARANTIA)
-ESTE SOFTWARE É FORNECIDO PELO DETENTOR DOS DIREITOS AUTORAIS "NO ESTADO EM QUE SE ENCONTRA", 
-SEM QUALQUER GARANTIA EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS 
-IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. EM NENHUM CASO O AUTOR 
-SERÁ RESPONSABILIZADO POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, 
-EXEMPLARES OU CONSEQUENTES (INCLUINDO, MAS NÃO SE LIMITANDO A, PERDA DE LUCROS, INTERRUPÇÃO 
-DE NEGÓCIOS OU PERDA DE DADOS) CONFIGURADOS POR QUALQUER TEORIA DE RESPONSABILIDADE, SEJA POR 
-CONTRATO, RESPONSABILIDADE OBJETIVA OU ATO ILÍCITO DECORRENTE DE QUALQUER FORMA DO USO DESTE 
-SOFTWARE.
+5. DISCLAIMER OF LIABILITY (WARRANTY)
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS", WITHOUT ANY EXPRESS 
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR 
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; 
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY 
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN 
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
