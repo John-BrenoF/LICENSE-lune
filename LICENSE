@@ -1,0 +1,78 @@
+LICENÇA DE USO MODIFICÁVEL, ÉTICO E COOPERATIVO (LUME)
+Versão 1.0 — Copyright (c) 2026 [ nome ]
+
+Por favor, leia este contrato de licença atentamente antes de usar, modificar ou 
+distribuir este software. Ao utilizar este software, você concorda com todos os 
+termos descritos abaixo.
+
+1. ATRIBUIÇÃO DE CRÉDITOS E DIREITOS AUTORAIS
+O autor original, [Seu Nome Completo], retém todos os direitos autorais do software. 
+O nome do criador original, bem como os avisos de direitos autorais contidos nos arquivos 
+fonte originais, DEVEM ser mantidos intactos e exibidos explicitamente em todas as cópias, 
+distribuições, sublicenças ou trabalhos derivados deste software, em qualquer instância 
+de execução ou distribuição pública.
+
+2. RECIPROCIDADE DE CÓDIGO (COPYLEFT FRACO)
+É concedida permissão para modificar o código-fonte deste software e integrá-lo a outros 
+projetos, observando as seguintes condições:
+a) Qualquer modificação, correção de bugs, otimização ou adição direta feita aos arquivos 
+   de código-fonte originais deste software DEVE ser disponibilizada publicamente sob os 
+   mesmos termos desta licença.
+b) Extensões, módulos independentes ou plugins que se comuniquem com este software através 
+   de interfaces de programação (APIs) ou vinculação dinâmica, sem modificar o core 
+   do código original, não são considerados trabalhos derivados e podem ser mantidos sob 
+   código fechado ou outras licenças, a critério de seus respectivos autores.
+
+3. RECIPROCIDADE POR USO COMERCIAL E LUCRO
+Se você, sua empresa, startup ou entidade utiliza este software para auferir qualquer tipo 
+de lucro, receita, beneficio financeiro direto ou indireto, ou o integra em serviços comerciais 
+pagos, você fica OBRIGADO a escolher e cumprir uma das seguintes formas de reciprocidade para 
+manter o direito de uso do software:
+
+- Opção A (Contribuição Técnica): Contribuir ativamente para o desenvolvimento do projeto 
+  principal, enviando Pull Requests ou Commits contendo melhorias reais (correções de bugs, 
+  otimizações ou novas funcionalidades) que sejam efetivamente ACEITAS E APROVADAS pelo 
+  mantenedor original, mantendo uma frequência mínima de pelo menos 1 (uma) contribuição 
+  aprovada a cada 6 (seis) meses.
+- Opção B (Patrocínio Financeiro): Caso não contribua com código técnico aceito pelo mantenedor, 
+  a entidade ou indivíduo fica obrigado a pagar uma taxa de patrocínio mensal fixa no valor de 
+  $50 USD (cinquenta dólares americanos, ou o equivalente convertido na moeda local) através 
+  dos canais oficiais de financiamento indicados no repositório do projeto (ex: GitHub Sponsors, 
+  Open Collective).
+
+Estão ISENTOS desta obrigação apenas estudantes, pesquisadores, hobbistas e indivíduos que 
+utilizem o software para fins estritamente pessoais, educacionais ou em projetos sem fins lucrativos.
+
+O não cumprimento de nenhuma das duas opções (A ou B) por qualquer entidade ou indivíduo que 
+lucre com o software revoga automaticamente o direito de uso, cópia, modificação ou 
+distribuição do mesmo.
+
+4. POLÍTICA DE USO JUSTO, PRIVACIDADE E ANTI-MALWARE
+Este software foi criado com foco na experiência do usuário e no respeito à privacidade. É 
+expressamente PROIBIDA a distribuição de trabalhos derivados ou modificados deste software 
+que incluam as seguintes práticas:
+
+a) Telemetria Abusiva e Coleta de Dados: O software não pode coletar, rastrear ou transmitir 
+   dados pessoais, telemetria de uso ou informações do dispositivo além do estritamente 
+   necessário para o funcionamento técnico básico do sistema. É terminantemente proibida a venda, 
+   compartilhamento ou cessão de qualquer dado de usuário para empresas de publicidade ou terceiros.
+b) Anúncios Invasivos (Adware): Caso o desenvolvedor utilize anúncios para monetizar o software 
+   derivado, estes devem respeitar a experiência do usuário. 
+   - São PROIBIDOS: Anúncios em tela cheia (pop-ups/intersticiais agressivos), anúncios que 
+     interrompam o fluxo de uso forçadamente, ou a exibição excessiva de publicidade.
+   - São PERMITIDOS apenas: Banners discretos posicionados na interface (desktop ou mobile), 
+     anúncios baseados em recompensa (onde o usuário escolhe assistir para obter um benefício) 
+     ou anúncios exibidos com intervalos de tempo razoáveis que não degradem a usabilidade.
+
+O descumprimento de qualquer subcláusula deste item classifica o software derivado como 
+"Malware/Adware de Código" e revoga imediatamente o direito de uso e distribuição desta licença.
+
+5. ISENÇÃO DE RESPONSABILIDADE (GARANTIA)
+ESTE SOFTWARE É FORNECIDO PELO DETENTOR DOS DIREITOS AUTORAIS "NO ESTADO EM QUE SE ENCONTRA", 
+SEM QUALQUER GARANTIA EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS 
+IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. EM NENHUM CASO O AUTOR 
+SERÁ RESPONSABILIZADO POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, 
+EXEMPLARES OU CONSEQUENTES (INCLUINDO, MAS NÃO SE LIMITANDO A, PERDA DE LUCROS, INTERRUPÇÃO 
+DE NEGÓCIOS OU PERDA DE DADOS) CONFIGURADOS POR QUALQUER TEORIA DE RESPONSABILIDADE, SEJA POR 
+CONTRATO, RESPONSABILIDADE OBJETIVA OU ATO ILÍCITO DECORRENTE DE QUALQUER FORMA DO USO DESTE 
+SOFTWARE.
